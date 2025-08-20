@@ -62,4 +62,5 @@ Thank you for your answers. An Instructor will respond to this shortly. Have a g
 
 ## Getting Started
 1. Clone or download this repository.  
-2. Run "DailyReport.exe"
+2. Navigate to DailyReport -> DailyReport -> bin -> Debug -> net8.0
+3. Run "DailyReport.exe"

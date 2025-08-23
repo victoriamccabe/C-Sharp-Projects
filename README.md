@@ -30,13 +30,13 @@ This folder contains a collection of small C# programming challenges designed to
 
 &nbsp;  Small Challenges/MathChallenge
 
-
+&nbsp; 
 
 3. Build the project (optional if already compiled):
 
 &nbsp;  dotnet build
 
-
+&nbsp; 
 
 4. Run the executable:
 

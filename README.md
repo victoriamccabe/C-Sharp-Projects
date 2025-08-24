@@ -1,8 +1,8 @@
-\# C# Projects
+# C# Projects
 
 
 
-\## Small Challenges
+## Small Challenges
 
 
 
@@ -14,31 +14,31 @@ This folder contains a collection of small C# programming challenges designed to
 
 
 
-\## How to Run a Challenge
+## How to Run a Challenge
 
 
 
-1\. Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 &nbsp;  git clone <repository-url>
 
 &nbsp;  
 
-2\. Navigate to the challenge project folder you want to run.  
+2. Navigate to the challenge project folder you want to run.  
 
 &nbsp;  Example:
 
 &nbsp;  Small Challenges/MathChallenge
 
+&nbsp; 
 
-
-3\. Build the project (optional if already compiled):
+3. Build the project (optional if already compiled):
 
 &nbsp;  dotnet build
 
+&nbsp; 
 
-
-4\. Run the executable:
+4. Run the executable:
 
 &nbsp;  - Navigate to:
 
@@ -56,13 +56,13 @@ This folder contains a collection of small C# programming challenges designed to
 
 
 
-\## Notes
+## Notes
 
-\- All projects are built using .NET 8.0.  
+- All projects are built using .NET 8.0.  
 
-\- Each challenge is self-contained and can be run independently.  
+- Each challenge is self-contained and can be run independently.  
 
-\- These challenges are for learning and practice purposes.
+- These challenges are for learning and practice purposes.
 
 
 

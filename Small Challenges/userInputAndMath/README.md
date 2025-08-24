@@ -17,12 +17,6 @@ It asks the user for input and performs a series of tasks, printing results to t
 
 5. Takes an input from the user, divides it by 7, and prints the remainder using the "%" operator.
 
-## How to Run
-1. Copy the program into a new C# Console Application in Visual Studio or your preferred IDE.
-2. Build and run the program.
-3. Follow the on-screen prompts and enter numbers when requested.
-4. The results of each operation will be displayed in the console.
-
 ## Notes
 - The program uses "Convert.ToInt64()" and "Convert.ToDouble()" to safely handle input.
 - Invalid inputs (non-numeric values) will throw an error.

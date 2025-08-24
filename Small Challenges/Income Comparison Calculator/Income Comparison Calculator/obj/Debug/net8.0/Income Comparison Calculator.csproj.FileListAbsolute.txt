@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\bin\Debug\net8.0\Income Comparison Calculator.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\bin\Debug\net8.0\Income Comparison Calculator.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\bin\Debug\net8.0\Income Comparison Calculator.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\bin\Debug\net8.0\Income Comparison Calculator.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\bin\Debug\net8.0\Income Comparison Calculator.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\refint\Income Comparison Calculator.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\Income Comparison Calculator.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Income Comparison Calculator\Income Comparison Calculator\obj\Debug\net8.0\ref\Income Comparison Calculator.dll

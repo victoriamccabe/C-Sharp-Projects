@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\userInputAndMath\\",
+  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\userInputAndMath\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76DD164D-E615-4E93-80BD-14D11A48428A}|UserInputAndMath\\UserInputAndMath.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\userinputandmath\\userinputandmath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76DD164D-E615-4E93-80BD-14D11A48428A}|UserInputAndMath\\UserInputAndMath.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\userinputandmath\\userinputandmath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76DD164D-E615-4E93-80BD-14D11A48428A}|UserInputAndMath\\UserInputAndMath.csproj|solutionrelative:userinputandmath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,14 +27,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\userInputAndMath\\UserInputAndMath\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs",
               "RelativeDocumentMoniker": "UserInputAndMath\\Program.cs",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\userInputAndMath\\UserInputAndMath\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs",
               "RelativeToolTip": "UserInputAndMath\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T21:27:19.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T21:27:19.338Z"
             }
           ]
         },
@@ -47,13 +46,12 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Math Challenge\\Math Challenge\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Small Challenges\\Math Challenge\\Math Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Math Challenge\\Math Challenge\\Program.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Math Challenge\\Math Challenge\\Program.cs",
-              "RelativeToolTip": "..\\Small Challenges\\Math Challenge\\Math Challenge\\Program.cs",
+              "RelativeToolTip": "..\\Math Challenge\\Math Challenge\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T21:32:32.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T21:32:32.513Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Math Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a6838511b6bb513f374747919d5df4f6d592a7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Math Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Math Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

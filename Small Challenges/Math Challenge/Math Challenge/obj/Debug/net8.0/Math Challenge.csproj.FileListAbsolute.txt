@@ -12,3 +12,18 @@ C:\Users\victo\Repos\C#-Projects\Math Challenge\Math Challenge\obj\Debug\net8.0\
 C:\Users\victo\Repos\C#-Projects\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.pdb
 C:\Users\victo\Repos\C#-Projects\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.genruntimeconfig.cache
 C:\Users\victo\Repos\C#-Projects\Math Challenge\Math Challenge\obj\Debug\net8.0\ref\Math Challenge.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\bin\Debug\net8.0\Math Challenge.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\bin\Debug\net8.0\Math Challenge.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\bin\Debug\net8.0\Math Challenge.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\bin\Debug\net8.0\Math Challenge.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\bin\Debug\net8.0\Math Challenge.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\refint\Math Challenge.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\Math Challenge.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Math Challenge\Math Challenge\obj\Debug\net8.0\ref\Math Challenge.dll

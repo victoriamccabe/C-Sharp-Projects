@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\bin\Debug\net8.0\UserInputAndMath.exe
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\bin\Debug\net8.0\UserInputAndMath.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\bin\Debug\net8.0\UserInputAndMath.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\bin\Debug\net8.0\UserInputAndMath.dll
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\bin\Debug\net8.0\UserInputAndMath.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.dll
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\refint\UserInputAndMath.dll
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\UserInputAndMath.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\UserInputAndMath\UserInputAndMath\obj\Debug\net8.0\ref\UserInputAndMath.dll

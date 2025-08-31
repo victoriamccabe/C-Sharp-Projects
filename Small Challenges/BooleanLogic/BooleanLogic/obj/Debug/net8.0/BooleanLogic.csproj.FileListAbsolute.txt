@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.exe
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.dll
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.dll
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\refint\BooleanLogic.dll
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\ref\BooleanLogic.dll

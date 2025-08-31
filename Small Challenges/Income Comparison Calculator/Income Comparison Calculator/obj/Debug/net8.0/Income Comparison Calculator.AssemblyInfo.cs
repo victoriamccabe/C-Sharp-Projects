@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Income Comparison Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b039629c00385d89cac53f01cd2549c90f217174")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+111ce75d1377e76fdffb1fc59d93a0d425ae04e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Income Comparison Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Income Comparison Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Income Comparison Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Income Comparison Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{114FAF7B-B963-41F7-AD0E-6E17B456FF4E}|Income Comparison Calculator\\Income Comparison Calculator.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\income comparison calculator\\income comparison calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114FAF7B-B963-41F7-AD0E-6E17B456FF4E}|Income Comparison Calculator\\Income Comparison Calculator.csproj|solutionrelative:income comparison calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Income Comparison Calculator\\Income Comparison Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Income Comparison Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,43 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 250,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Income Comparison Calculator\\Income Comparison Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Income Comparison Calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Income Comparison Calculator\\Income Comparison Calculator\\Program.cs",
-              "RelativeToolTip": "Income Comparison Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T21:52:59.175Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs",
-              "RelativeToolTip": "..\\Small Challenges\\userInputAndMath\\UserInputAndMath\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Income Comparison Calculator\\Income Comparison Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Income Comparison Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Income Comparison Calculator\\Income Comparison Calculator\\Program.cs",
+              "RelativeToolTip": "Income Comparison Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T21:54:52.439Z",
+              "WhenOpened": "2025-08-24T21:52:59.175Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

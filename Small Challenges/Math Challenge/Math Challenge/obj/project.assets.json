@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Repos\\C#-Projects\\Math Challenge\\Math Challenge\\Math Challenge.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Math Challenge\\Math Challenge\\Math Challenge.csproj",
       "projectName": "Math Challenge",
-      "projectPath": "C:\\Users\\victo\\Repos\\C#-Projects\\Math Challenge\\Math Challenge\\Math Challenge.csproj",
+      "projectPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Math Challenge\\Math Challenge\\Math Challenge.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Repos\\C#-Projects\\Math Challenge\\Math Challenge\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Math Challenge\\Math Challenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

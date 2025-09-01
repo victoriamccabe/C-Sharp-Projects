@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\bin\Debug\net8.0\Branching.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\bin\Debug\net8.0\Branching.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\bin\Debug\net8.0\Branching.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\bin\Debug\net8.0\Branching.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\bin\Debug\net8.0\Branching.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\refint\Branching.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\Branching.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Branching\Branching\obj\Debug\net8.0\ref\Branching.dll

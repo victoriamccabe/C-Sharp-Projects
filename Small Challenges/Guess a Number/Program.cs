@@ -1,48 +1,74 @@
 ﻿using System;
+using System.Threading;
 
 class Program
 {
     static void Main(string[] args)
     {
-        // Boolean comparison using a WHILE loop
-        Console.WriteLine("Hello, I am going to count to 20");
-        Thread.Sleep(1000); // Pause for 1000 milliseconds 
-        //Initialize a counter variable
-        int counter = 0;
+        // WHILE loop
+  
 
-        // The loop will count until the counter reaches 20
+        Console.WriteLine("I am going to count to 20");
+        Thread.Sleep(1000); // Wait for 1 second before starting
 
-        while (counter <=20)
+        int counter = 0; // Start the counter at 0
+
+        // The loop runs while the counter is less than or equal to 20
+        while (counter <= 20)
         {
-            Console.WriteLine($"Counter: {counter}");
-            counter++; // Increment the counter by 1
-            Thread.Sleep(50); // Pause for 50 milliseconds (0.05 seconds)
+            Console.WriteLine($"{counter}"); // Print the current counter value
+            counter = counter + 1; // Increase the counter by 1
+            Thread.Sleep(50); // Small pause so the output is easier to follow
         }
 
         Console.WriteLine(); // Print an empty line for spacing
 
-        // Boolean comparison using DO WHILE loop
 
-        // Create a new random number generator instance
-        Random random = new Random();
+        // DO-WHILE loop
 
-        // Generate a random number between 0 and 20
-        int secretNumber = random.Next(0, 20);
+        // Random number generator
+        Random random = new Random(); 
+        int secretNumber = random.Next(0, 20); // Pick a number between 0 and 20
+        int attempts = 0; // Keep track of how many tries the user made
+        bool guessedCorrectly = false; // Check if the user guessed right
 
-        // Max attempts
-        const int maxAttempts = 3;
-
-        // Boolean to track if the user guessed the number
-        bool guessedCorrectly = false;
+        Console.WriteLine("I picked a number between 0 and 20.\nYou have 3 attempts to guess it!");
 
 
-        Console.WriteLine("My mind got stuck on a particular number. \n Try to guess which number is. You have 3 attemps. \n Ready?\n Guess a number:");
-
-        // Beginning of guessing loop
+        // The guessing loop will always run at least once
         do
         {
+            Console.Write("Enter your guess: ");
+            string input = Console.ReadLine(); // Get user input
 
+            int guess; // Variable for the user’s guess
+            if (int.TryParse(input, out guess)) // Check if input is a number
+            {
+                attempts = attempts + 1; // Add one to the attempt counter
+
+                if (guess == secretNumber) // If the guess is correct
+                {
+                    Console.WriteLine("Correct! You guessed the number!");
+                    guessedCorrectly = true; // Mark as correct guess
+                }
+                else
+                {
+                    Console.WriteLine("Wrong guess, try again!");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a number.");
+            }
+
+        } while (!guessedCorrectly && attempts < 3); // Continue while not correct and attempts left
+
+        // After the loop ends, check the result
+        if (!guessedCorrectly)
+        {
+            Console.WriteLine($"Sorry, you ran out of attempts.\nThe secret number was: {secretNumber}");
         }
-        
+
+        Console.WriteLine("Game over. Thanks for playing!");
     }
 }

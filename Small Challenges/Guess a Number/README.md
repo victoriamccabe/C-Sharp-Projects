@@ -1,5 +1,14 @@
 # COUNTING AND GUESSING GAME
 
+## Assignment
+This project was created based on the following assignment instructions:
+
+- Do a boolean comparison using a while statement.  
+- Do a boolean comparison using a do while statement.  
+- Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.  
+
+---
+
 ## Project Overview
 This project is a "C# console application" created to practice "while" and "do-while" loops with boolean comparisons.  
 The program has two parts:  
@@ -36,7 +45,6 @@ The application must:
 5. The program ends by displaying whether the user won or lost, and then thanks them for playing.  
 
 ---
-
 ## Example Run
 "I am going to count to 20  
 0  

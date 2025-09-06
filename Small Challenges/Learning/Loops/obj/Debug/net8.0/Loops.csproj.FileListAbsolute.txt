@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Learning\Loops\obj\Debug\net8.0\ref\Loops.dll

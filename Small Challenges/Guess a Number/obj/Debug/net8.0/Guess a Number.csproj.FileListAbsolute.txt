@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\bin\Debug\net8.0\Guess a Number.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\bin\Debug\net8.0\Guess a Number.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\bin\Debug\net8.0\Guess a Number.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\bin\Debug\net8.0\Guess a Number.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\bin\Debug\net8.0\Guess a Number.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\refint\Guess a Number.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\Guess a Number.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Guess a Number\obj\Debug\net8.0\ref\Guess a Number.dll

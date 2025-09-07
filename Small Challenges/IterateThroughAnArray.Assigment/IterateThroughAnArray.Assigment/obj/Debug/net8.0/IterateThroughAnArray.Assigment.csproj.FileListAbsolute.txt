@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\bin\Debug\net8.0\IterateThroughAnArray.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\bin\Debug\net8.0\IterateThroughAnArray.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\bin\Debug\net8.0\IterateThroughAnArray.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\bin\Debug\net8.0\IterateThroughAnArray.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\bin\Debug\net8.0\IterateThroughAnArray.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\refint\IterateThroughAnArray.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\IterateThroughAnArray.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\IterateThroughAnArray.Assigment\IterateThroughAnArray.Assigment\obj\Debug\net8.0\ref\IterateThroughAnArray.Assigment.dll

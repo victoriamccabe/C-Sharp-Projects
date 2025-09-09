@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\bin\Debug\net8.0\Assigment.StringsAndIntergers.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\bin\Debug\net8.0\Assigment.StringsAndIntergers.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\bin\Debug\net8.0\Assigment.StringsAndIntergers.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\bin\Debug\net8.0\Assigment.StringsAndIntergers.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\bin\Debug\net8.0\Assigment.StringsAndIntergers.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\refint\Assigment.StringsAndIntergers.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\Assigment.StringsAndIntergers.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Assigment.StringsAndIntergers\obj\Debug\net8.0\ref\Assigment.StringsAndIntergers.dll

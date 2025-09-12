@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\bin\Debug\net8.0\MethodSubmission.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\bin\Debug\net8.0\MethodSubmission.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\bin\Debug\net8.0\MethodSubmission.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\bin\Debug\net8.0\MethodSubmission.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\bin\Debug\net8.0\MethodSubmission.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\refint\MethodSubmission.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\MethodSubmission.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodSubmission.Assigment\MethodSubmission.Assigment\obj\Debug\net8.0\ref\MethodSubmission.Assigment.dll

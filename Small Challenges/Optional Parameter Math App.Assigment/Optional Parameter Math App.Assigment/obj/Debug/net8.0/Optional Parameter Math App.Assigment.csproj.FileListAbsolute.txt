@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\bin\Debug\net8.0\Optional Parameter Math App.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\bin\Debug\net8.0\Optional Parameter Math App.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\bin\Debug\net8.0\Optional Parameter Math App.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\bin\Debug\net8.0\Optional Parameter Math App.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\bin\Debug\net8.0\Optional Parameter Math App.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\refint\Optional Parameter Math App.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\Optional Parameter Math App.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Optional Parameter Math App.Assigment\Optional Parameter Math App.Assigment\obj\Debug\net8.0\ref\Optional Parameter Math App.Assigment.dll

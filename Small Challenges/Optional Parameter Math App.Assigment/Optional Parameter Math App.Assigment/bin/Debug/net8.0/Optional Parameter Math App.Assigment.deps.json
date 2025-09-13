@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Optional Parameter Math App.Assigment/1.0.0": {
+        "runtime": {
+          "Optional Parameter Math App.Assigment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Optional Parameter Math App.Assigment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MainMethod.Assigment/1.0.0": {
+        "runtime": {
+          "MainMethod.Assigment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainMethod.Assigment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

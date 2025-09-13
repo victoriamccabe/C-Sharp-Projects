@@ -22,3 +22,4 @@ This project demonstrates **method overloading** in C#. The "DoMath" method is o
 
 ## Example Run
 
+<img width="664" height="347" alt="image" src="https://github.com/user-attachments/assets/bc9cc785-e839-4c22-aeaa-b2bbaed934b6" />

@@ -21,19 +21,7 @@ The program asks the user for two numbers, allowing the second number to be opti
 
 ## Example Run
 
-"  
-Enter the first number:  
-10  
-Enter the second number (press Enter to skip):  
+<img width="483" height="134" alt="image" src="https://github.com/user-attachments/assets/24f36867-03ee-42e1-86f4-34c9d41275b0" />
 
-Result of the operation: 10  
-
-Enter the first number:  
-5  
-Enter the second number (press Enter to skip):  
-15  
-
-Result of the operation: 20  
-"
 
 

@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\bin\Debug\net8.0\MethodClass.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\bin\Debug\net8.0\MethodClass.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\bin\Debug\net8.0\MethodClass.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\bin\Debug\net8.0\MethodClass.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\bin\Debug\net8.0\MethodClass.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\refint\MethodClass.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\MethodClass.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\MethodClass.Assigment\MethodClass.Assigment\obj\Debug\net8.0\ref\MethodClass.Assigment.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Optional Parameter Math App.Assigment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38b448a3821447904724617a9dc71dd250bfda61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26015c58c75eadec907a8cbb7cee5dd2b7bb7f49")]
 [assembly: System.Reflection.AssemblyProductAttribute("Optional Parameter Math App.Assigment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Optional Parameter Math App.Assigment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

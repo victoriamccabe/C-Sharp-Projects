@@ -19,7 +19,7 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 "
 methodAssigment/
 │
@@ -30,7 +30,7 @@ methodAssigment/
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 ### 1. User Input  
 The program asks the user to enter a number.

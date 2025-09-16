@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Void.Assigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3D9A5B-FA76-4FA6-992F-E0BA7AD6514F}|Void.Assigment\\Void.Assigment.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\void.assigment\\void.assigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3D9A5B-FA76-4FA6-992F-E0BA7AD6514F}|Void.Assigment\\Void.Assigment.csproj|solutionrelative:void.assigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3D9A5B-FA76-4FA6-992F-E0BA7AD6514F}|Void.Assigment\\Void.Assigment.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\void.assigment\\void.assigment\\voidmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3D9A5B-FA76-4FA6-992F-E0BA7AD6514F}|Void.Assigment\\Void.Assigment.csproj|solutionrelative:void.assigment\\voidmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "voidMethod.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Void.Assigment\\Void.Assigment\\voidMethod.cs",
+              "RelativeDocumentMoniker": "Void.Assigment\\voidMethod.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Void.Assigment\\Void.Assigment\\voidMethod.cs",
+              "RelativeToolTip": "Void.Assigment\\voidMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:18:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Void.Assigment\\Void.Assigment\\Program.cs",
+              "RelativeDocumentMoniker": "Void.Assigment\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Void.Assigment\\Void.Assigment\\Program.cs*",
+              "RelativeToolTip": "Void.Assigment\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:17:19.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

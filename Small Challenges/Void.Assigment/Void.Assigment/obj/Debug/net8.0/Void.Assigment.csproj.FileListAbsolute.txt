@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\bin\Debug\net8.0\Void.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\bin\Debug\net8.0\Void.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\bin\Debug\net8.0\Void.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\bin\Debug\net8.0\Void.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\bin\Debug\net8.0\Void.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\refint\Void.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\Void.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Void.Assigment\Void.Assigment\obj\Debug\net8.0\ref\Void.Assigment.dll

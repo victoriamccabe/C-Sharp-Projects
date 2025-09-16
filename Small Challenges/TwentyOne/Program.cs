@@ -17,17 +17,7 @@ namespace TwentyOne // A namespace is like a container for related classes
             // Create a new Deck object (we have a Deck class already defined)
             // The Deck class should have a property called "Cards", which is a list of Card objects
             Deck deck = new Deck();
-
-
-
-            // Shuffle the deck by calling the Shuffle method we defined below
-            // (this method returns a shuffled Deck, which replaces the old one)
-            //deck = Shuffle(deck);
-
-            int timesShuffled =0; // Variable to hold the number of times shuffled (for the out parameter)
-
-            // Shuffle the deck 3 times
-            deck = Shuffle(deck: deck, out timesShuffled, 3);
+            deck.Shuffle(3); // Shuffle the deck 3 times
 
             // Loop through every Card in the deck
             foreach (Card card in deck.Cards)
@@ -39,7 +29,7 @@ namespace TwentyOne // A namespace is like a container for related classes
 
             // Print the total number of cards in the deck (should be 52 if it's a standard deck)
             Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine($"The deck was shuffled {timesShuffled} times.");
+            
 
             // Pause the program so the console window doesn’t close immediately
             Console.ReadLine();
@@ -86,43 +76,6 @@ namespace TwentyOne // A namespace is like a container for related classes
 
         //}
 
-
-        // OPTIONAL METHOD that combines both functionalities into one
-        // This method "shuffles" the deck of cards in a more efficient way
-        public static Deck Shuffle(Deck deck, out int timesShuffled, int times = 1)
-        {
-            timesShuffled = 0;
-            // Shuffle the deck the specified number of times
-            for (int i = 0; i < times; i++) // Loop 'times' times until i is no longer less than 'times' ++
-            {
-
-                timesShuffled++; // Increment the out parameter to indicate how many times we've shuffled
-                // Create a temporary empty list to store the shuffled cards
-                List<Card> TempList = new List<Card>();
-
-                // Create a Random object to generate random numbers
-                Random random = new Random();
-
-                // While there are still cards in the original deck
-                while (deck.Cards.Count > 0)
-                {
-                    // Pick a random index from the deck
-                    int randomIndex = random.Next(0, deck.Cards.Count);
-
-                    // Take the card at that random index and add it to the TempList
-                    TempList.Add(deck.Cards[randomIndex]);
-
-                    // Remove that card from the original deck so it doesn’t get picked again
-                    deck.Cards.RemoveAt(randomIndex);
-                }
-
-                // Replace the deck’s original Cards list with our shuffled TempList
-                deck.Cards = TempList;
-
-            }
-
-            // Return the shuffled deck back to the caller
-            return deck;
         }
 
-    } }
+    } 

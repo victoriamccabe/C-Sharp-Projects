@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\bin\Debug\net8.0\methods.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\bin\Debug\net8.0\methods.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\bin\Debug\net8.0\methods.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\bin\Debug\net8.0\methods.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\bin\Debug\net8.0\methods.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\refint\methods.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\methods.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\methods.Assigment\obj\Debug\net8.0\ref\methods.Assigment.dll

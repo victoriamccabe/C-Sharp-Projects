@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\SuperClass\SuperClass\bin\Debug\net8.0\SuperClass.exe
+C:\Users\victo\source\repos\SuperClass\SuperClass\bin\Debug\net8.0\SuperClass.deps.json
+C:\Users\victo\source\repos\SuperClass\SuperClass\bin\Debug\net8.0\SuperClass.runtimeconfig.json
+C:\Users\victo\source\repos\SuperClass\SuperClass\bin\Debug\net8.0\SuperClass.dll
+C:\Users\victo\source\repos\SuperClass\SuperClass\bin\Debug\net8.0\SuperClass.pdb
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.AssemblyInfo.cs
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.dll
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\refint\SuperClass.dll
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.pdb
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\SuperClass.genruntimeconfig.cache
+C:\Users\victo\source\repos\SuperClass\SuperClass\obj\Debug\net8.0\ref\SuperClass.dll

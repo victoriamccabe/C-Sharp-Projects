@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-     public class TwntyOneGame : Game
+     public class TwentyOneGame : Game
     {
         // This method is specific to the TwntyOneGame class
         public void Play()

@@ -14,25 +14,31 @@ namespace TwentyOne // A namespace is like a container for related classes
     {
         static void Main(string[] args) // The entry point of the program
         {
-            // Create a new Deck object (we have a Deck class already defined)
-            // The Deck class should have a property called "Cards", which is a list of Card objects
-            Deck deck = new Deck();
-            deck.Shuffle(3); // Shuffle the deck 3 times
+            TwntyOneGame game = new TwntyOneGame(); // Create a new instance of the TwntyOneGame class
+            game.Players = new List<string>() { "Alice", "Bob", "Charlie" }; // Initialize the Players list with some names
+            game.ListPlayers(); // Call the ListPlayers method to print out the players
+            game.Play();
+            Console.ReadLine(); // Print a blank line for better readability
 
-            // Loop through every Card in the deck
-            foreach (Card card in deck.Cards)
-            {
-                // Print out the card's face and suit to the console
-                // Example: "Ace of Spades"
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
+            //// Create a new Deck object (we have a Deck class already defined)
+            //// The Deck class should have a property called "Cards", which is a list of Card objects
+            //Deck deck = new Deck();
+            //deck.Shuffle(3); // Shuffle the deck 3 times
 
-            // Print the total number of cards in the deck (should be 52 if it's a standard deck)
-            Console.WriteLine(deck.Cards.Count);
+            //// Loop through every Card in the deck
+            //foreach (Card card in deck.Cards)
+            //{
+            //    // Print out the card's face and suit to the console
+            //    // Example: "Ace of Spades"
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+
+            //// Print the total number of cards in the deck (should be 52 if it's a standard deck)
+            //Console.WriteLine(deck.Cards.Count);
             
 
-            // Pause the program so the console window doesn’t close immediately
-            Console.ReadLine();
+            //// Pause the program so the console window doesn’t close immediately
+            //Console.ReadLine();
         }
 
         //// This method "shuffles" the deck of cards

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417B9B1A-1050-4275-8471-2A6A0B189AF9}|Abstract.Assigment\\Abstract.Assigment.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\abstract.assigment\\abstract.assigment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B9B1A-1050-4275-8471-2A6A0B189AF9}|Abstract.Assigment\\Abstract.Assigment.csproj|solutionrelative:abstract.assigment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417B9B1A-1050-4275-8471-2A6A0B189AF9}|Abstract.Assigment\\Abstract.Assigment.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\abstract.assigment\\abstract.assigment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B9B1A-1050-4275-8471-2A6A0B189AF9}|Abstract.Assigment\\Abstract.Assigment.csproj|solutionrelative:abstract.assigment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417B9B1A-1050-4275-8471-2A6A0B189AF9}|Abstract.Assigment\\Abstract.Assigment.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\abstract.assigment\\abstract.assigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B9B1A-1050-4275-8471-2A6A0B189AF9}|Abstract.Assigment\\Abstract.Assigment.csproj|solutionrelative:abstract.assigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\Abstract.Assigment\\Employee.cs",
+              "RelativeDocumentMoniker": "Abstract.Assigment\\Employee.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\Abstract.Assigment\\Employee.cs",
+              "RelativeToolTip": "Abstract.Assigment\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:50:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\Abstract.Assigment\\Person.cs",
+              "RelativeDocumentMoniker": "Abstract.Assigment\\Person.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\Abstract.Assigment\\Person.cs",
+              "RelativeToolTip": "Abstract.Assigment\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:47:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\Abstract.Assigment\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract.Assigment\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Abstract.Assigment\\Abstract.Assigment\\Program.cs",
+              "RelativeToolTip": "Abstract.Assigment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:47:40.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

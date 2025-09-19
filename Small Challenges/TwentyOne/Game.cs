@@ -8,12 +8,13 @@ namespace TwentyOne
 {
     public abstract class Game
     {
-     
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers() // It doesn't return anything, just lists players to the console
+        public abstract void Play(); // Abstract means that Every class that ineherits from Game must implement this method
+
+        public virtual void ListPlayers() // It doesn't return anything, just lists players to the console
         {
             foreach (string player in Players)
             {

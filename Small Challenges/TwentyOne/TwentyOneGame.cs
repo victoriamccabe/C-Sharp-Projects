@@ -9,9 +9,16 @@ namespace TwentyOne
      public class TwentyOneGame : Game
     {
         // This method is specific to the TwntyOneGame class
-        public void Play()
+        public override void Play() // Override means we are providing the specific implementation of the Play method for this class
         {
             throw new NotImplementedException(); 
         }
+
+        public override void ListPlayers() // Override the ListPlayers method from the Game class
+        {
+            Console.WriteLine("21 Players:"); // Print a header specific to 21 players
+            base.ListPlayers(); // Call the base class (Game) ListPlayers method to do the actual listing
+        }
+
     }
 }

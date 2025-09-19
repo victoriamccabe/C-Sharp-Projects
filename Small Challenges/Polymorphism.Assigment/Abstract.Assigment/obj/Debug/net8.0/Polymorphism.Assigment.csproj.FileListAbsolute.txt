@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\bin\Debug\net8.0\Polymorphism.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\bin\Debug\net8.0\Polymorphism.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\bin\Debug\net8.0\Polymorphism.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\bin\Debug\net8.0\Polymorphism.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\bin\Debug\net8.0\Polymorphism.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\refint\Polymorphism.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\Polymorphism.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Polymorphism.Assigment\Abstract.Assigment\obj\Debug\net8.0\ref\Polymorphism.Assigment.dll

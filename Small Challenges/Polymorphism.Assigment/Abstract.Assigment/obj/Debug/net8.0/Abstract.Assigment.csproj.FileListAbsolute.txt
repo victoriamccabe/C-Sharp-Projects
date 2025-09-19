@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\bin\Debug\net8.0\Abstract.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\bin\Debug\net8.0\Abstract.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\bin\Debug\net8.0\Abstract.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\bin\Debug\net8.0\Abstract.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\bin\Debug\net8.0\Abstract.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\refint\Abstract.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\Abstract.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\Abstract.Assigment\Abstract.Assigment\obj\Debug\net8.0\ref\Abstract.Assigment.dll

@@ -13,3 +13,18 @@ C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\TwentyOne\obj\Debug\net8.
 C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\TwentyOne\obj\Debug\net8.0\TwentyOne.pdb
 C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\TwentyOne\obj\Debug\net8.0\TwentyOne.genruntimeconfig.cache
 C:\Users\victo\Repos\C-Sharp-Projects\Small Challenges\TwentyOne\obj\Debug\net8.0\ref\TwentyOne.dll
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.dll
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\refint\TwentyOne.dll
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\bin\Debug\net8.0\TwentyOne.exe
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\bin\Debug\net8.0\TwentyOne.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\bin\Debug\net8.0\TwentyOne.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\bin\Debug\net8.0\TwentyOne.dll
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\bin\Debug\net8.0\TwentyOne.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\TwentyOne.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\obj\Debug\net8.0\ref\TwentyOne.dll

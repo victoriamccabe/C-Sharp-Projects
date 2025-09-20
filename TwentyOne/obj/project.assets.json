@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\TwentyOne.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOne.csproj",
       "projectName": "TwentyOne",
-      "projectPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\TwentyOne.csproj",
+      "projectPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOne.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\bin\Debug\net8.0\Parameters.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\bin\Debug\net8.0\Parameters.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\bin\Debug\net8.0\Parameters.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\bin\Debug\net8.0\Parameters.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\bin\Debug\net8.0\Parameters.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\refint\Parameters.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\Parameters.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Parameters\Parameters\obj\Debug\net8.0\ref\Parameters.dll

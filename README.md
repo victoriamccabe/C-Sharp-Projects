@@ -2,19 +2,13 @@
 
 
 
-## Small Challenges
-
-
-
-This folder contains a collection of small C# programming challenges designed to practice core concepts such as variables, arithmetic operations, loops, conditionals, and more.
-
-
+## This folder contains a collection of small C# projects, including several assignments completed as part of the C# course
 
 ---
 
 
 
-## How to Run a Challenge
+## How to Run a Project
 
 
 

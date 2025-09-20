@@ -14,21 +14,23 @@ namespace TwentyOne // A namespace is like a container for related classes
     {
         static void Main(string[] args) // The entry point of the program
         {
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            player.Name = "Jesse";
 
-            TwentyOneGame game = new TwentyOneGame(); // Create a new instance of the TwentyOneGame class
-            game.Players = new List<string>() { "Bob", "Sue", "Joe" }; // Initialize the Players property with a list of player names
-            game.ListPlayers(); // Call the ListPlayers method to display the players
+            game += player;
+            game -= player;
+            Deck deck = new Deck();
+            deck.Shuffle(3);
+
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card.Face + " of " + card.Suit);
+            }
+
+            Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
-            //Deck deck = new Deck(); // Create a new instance of the Deck class
-
-            //foreach (Card card in deck.Cards) // Loop through each card in the deck
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit); // Print the face and suit of each card
-            //}
-            //Console.WriteLine(deck.Cards.Count); // Print the total number of cards in the deck (should be 52)
-            //Console.ReadLine(); // Wait for user input before closing the console
-
         }
-
     }
 }

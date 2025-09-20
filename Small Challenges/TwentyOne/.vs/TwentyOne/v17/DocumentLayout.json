@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\small challenges\\twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "Card.cs",
@@ -47,48 +51,51 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T16:27:53.5Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T15:56:02.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "Deck.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Deck.cs",
               "RelativeToolTip": "Deck.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:50:04.34Z"
+              "WhenOpened": "2025-09-10T18:50:04.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:31:02.271Z"
+              "WhenOpened": "2025-09-19T22:31:02.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "TwentyOneGame.cs",
@@ -102,6 +109,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:44:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IWalkAway.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\TwentyOne\\IWalkAway.cs",
               "RelativeDocumentMoniker": "IWalkAway.cs",
@@ -109,8 +129,7 @@
               "RelativeToolTip": "IWalkAway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T23:03:12.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T23:03:12.854Z"
             }
           ]
         },

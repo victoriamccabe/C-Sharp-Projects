@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\bin\Debug\net8.0\Operators.Assigment.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\bin\Debug\net8.0\Operators.Assigment.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\bin\Debug\net8.0\Operators.Assigment.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\bin\Debug\net8.0\Operators.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\bin\Debug\net8.0\Operators.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\refint\Operators.Assigment.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\Operators.Assigment.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\Operators.Assigment\Operators.Assigment\obj\Debug\net8.0\ref\Operators.Assigment.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Operators.Assigment\\Operators.Assigment\\Operators.Assigment.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\Operators.Assigment\\Operators.Assigment\\Operators.Assigment.csproj",
       "projectName": "Operators.Assigment",
-      "projectPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Operators.Assigment\\Operators.Assigment\\Operators.Assigment.csproj",
+      "projectPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\Operators.Assigment\\Operators.Assigment\\Operators.Assigment.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Small Challenges\\Operators.Assigment\\Operators.Assigment\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\Operators.Assigment\\Operators.Assigment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

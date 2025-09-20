@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Operators.Assigment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ded82584515581ee93ea6195139c104a17eb01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ad28318f82027a620f1a20245979d86b85c6675")]
 [assembly: System.Reflection.AssemblyProductAttribute("Operators.Assigment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Operators.Assigment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

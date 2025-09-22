@@ -26,11 +26,11 @@ namespace Lambda
             };
 
             // Foreach loop to find all employees with the first name "Joe"
-            foreach (Employee emp in employees)
+            foreach (Employee employee in employees)
             {
-                if (emp.firstName == "Joe")
+                if (employee.firstName == "Joe")
                 {
-                    Console.WriteLine($"ID: {emp.Id}, Name: {emp.firstName} {emp.lastName}");
+                    Console.WriteLine($"ID: {employee.Id}, Name: {employee.firstName} {employee.lastName}");
                 }
             }
 
@@ -39,18 +39,18 @@ namespace Lambda
 
             // Print the list of employees named "Joe"
             Console.WriteLine("\nEmployees named Joe (using Lambda):");
-            foreach (Employee emp in joeList) // Print each employee in the joeList
+            foreach (Employee employee in joeList) // Print each employee in the joeList
             {
-                Console.WriteLine($"ID: {emp.Id}, Name: {emp.firstName} {emp.lastName}");
+                Console.WriteLine($"ID: {employee.Id}, Name: {employee.firstName} {employee.lastName}");
             }
 
             // Lambda expression to find all employees with an ID greater than 5
             List<Employee> idGreaterThanFive = employees.Where(x => x.Id > 5).ToList();
             // Print the list of employees with ID greater than 5
             Console.WriteLine("\nEmployees with ID greater than 5 (using Lambda):");
-            foreach (Employee emp in idGreaterThanFive) // Print each employee with ID greater than 5
+            foreach (Employee employee in idGreaterThanFive) // Print each employee with ID greater than 5
             {
-                Console.WriteLine($"ID: {emp.Id}, Name: {emp.firstName} {emp.lastName}");
+                Console.WriteLine($"ID: {employee.Id}, Name: {employee.firstName} {employee.lastName}");
             }
         }
     }

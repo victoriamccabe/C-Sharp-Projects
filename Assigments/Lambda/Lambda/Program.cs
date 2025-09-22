@@ -35,7 +35,7 @@ namespace Lambda
             }
 
             // Lambda expression to find all employees with the first name "Joe"
-            List<Employee> joeList = employees.Where(x => x.firstName == "Joe").ToList();
+            List<Employee> joeList = employees.Where(employee => employee.firstName == "Joe").ToList();
 
             // Print the list of employees named "Joe"
             Console.WriteLine("\nEmployees named Joe (using Lambda):");

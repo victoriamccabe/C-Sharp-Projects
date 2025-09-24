@@ -8,7 +8,13 @@ namespace TwentyOne
 {
     public class Player<T>
     {
-
+        // Constructor to initialize a new player with a name and starting balance
+        public Player(string name, int beginningBalance)
+        {
+            Hand = new List<Card>(); // Initialize the Hand list to an empty list
+            Balance = beginningBalance; // Set the player's starting balance
+            Name = name; // Set the player's name
+        }
         public List<Card> Hand { get; set; }
 
         public int Balance { get; set; }

@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic; // Lets us use Lists, Dictionaries, etc.
-using System.Linq;                // Useful for queries (not used here, but often included)
-using System.Threading.Tasks;     // Used for async tasks (not used here)
-using System.Text;                // Useful for string handling (not used here)
+using System.Linq;                // Useful for queries 
+using System.Threading.Tasks;     // Used for async tasks 
+using System.Text;                // Useful for string handling 
+using System.IO;                  // Used for file input/output 
 
 // ----------------------------------------------------------------
 // THIS CODE IS FULLY COMMENTED FOR LEARNING PURPOSES

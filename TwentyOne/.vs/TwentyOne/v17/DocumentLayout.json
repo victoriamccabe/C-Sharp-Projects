@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +54,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Dealer.cs",
+              "RelativeDocumentMoniker": "Dealer.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Dealer.cs",
+              "RelativeToolTip": "Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:34:18.953Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwentyOneRules.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneRules.cs",
+              "RelativeDocumentMoniker": "TwentyOneRules.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneRules.cs",
+              "RelativeToolTip": "TwentyOneRules.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:07:31.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneGame.cs",
+              "RelativeToolTip": "TwentyOneGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:32:28.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwentyOneDealer.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneDealer.cs",
+              "RelativeDocumentMoniker": "TwentyOneDealer.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneDealer.cs",
+              "RelativeToolTip": "TwentyOneDealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:35:12.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwCcAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:56:02.313Z"
+              "WhenOpened": "2025-09-10T15:56:02.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Deck.cs",
               "RelativeDocumentMoniker": "Deck.cs",
@@ -62,61 +127,50 @@
               "RelativeToolTip": "Deck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:50:04.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T18:50:04.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Card.cs",
               "RelativeDocumentMoniker": "Card.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Card.cs",
               "RelativeToolTip": "Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T16:27:53.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:31:02.271Z"
+              "WhenOpened": "2025-09-19T22:31:02.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TwentyOneGame.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeDocumentMoniker": "TwentyOneGame.cs",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOneGame.cs",
-              "RelativeToolTip": "TwentyOneGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:32:28.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAhwCEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:44:07.295Z"
+              "WhenOpened": "2025-09-20T00:44:07.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IWalkAway.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\IWalkAway.cs",
               "RelativeDocumentMoniker": "IWalkAway.cs",

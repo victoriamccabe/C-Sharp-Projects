@@ -8,19 +8,20 @@ namespace TwentyOne
 {
     public abstract class Game
     {
-        //public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Player>(); // Private list to hold players in the game. It's initialized to an empty list.
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>(); // Private dictionary to hold players and their corresponding bets. It's initialized to an empty dictionary.
+        public List<Player> Players { get { return _players; } set { _players = value; } } // Public property to access and modify the list of players
         public string Name { get; set; }
-        public string Dealer { get; set; }
-
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } } // Public property to access and modify the dictionary of bets
         public abstract void Play(); // Abstract means that Every class that ineherits from Game must implement this method
 
-        //public virtual void ListPlayers() // It doesn't return anything, just lists players to the console
-        //{
-        //    foreach (Player player in Players)
-        //    {
-        //        Console.WriteLine(player.Name);
-        //    }
-        //}
+        public virtual void ListPlayers() // It doesn't return anything, just lists players to the console
+        {
+            foreach (Player player in Players)
+            {
+                Console.WriteLine(player.Name);
+            }
+        }
     }
 }
 

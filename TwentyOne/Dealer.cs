@@ -18,7 +18,6 @@ namespace TwentyOne
 
             Hand.Add(Deck.Cards.First()); // Adds the top card from the dealer's deck to the player's hand. "First()" is a LINQ method that gets the first item in a collection.
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
-           
             Deck.Cards.RemoveAt(0); // Removes the top card from the dealer's deck so it can't be dealt again.
         }
     }

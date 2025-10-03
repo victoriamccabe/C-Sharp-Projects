@@ -4,7 +4,8 @@ using System.Linq;                // Useful for queries
 using System.Threading.Tasks;     // Used for async tasks 
 using System.Text;                // Useful for string handling 
 using System.IO;                  // Used for file input/output 
-
+using Casino;
+using Casino.TwentyOne;                    // Reference to the Casino namespace
 // ----------------------------------------------------------------
 // THIS CODE IS FULLY COMMENTED FOR LEARNING PURPOSES
 // ----------------------------------------------------------------

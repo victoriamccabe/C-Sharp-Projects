@@ -29,6 +29,14 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank); // Create a new Player object and initialize it with name and bank
+
+                // Generate a unique identifier for the player
+                player.Id = Guid.NewGuid(); // Assign a new unique identifier to the player--this is useful for tracking players in a database
+                // Log the player's ID to a file
+                using (StreamWriter file = new StreamWriter(@"C:\Users\victo\Repos\C-Sharp-Projects\TwentyOne\log.txt", true)) // Create a StreamWriter to log player activity to a file
+                {
+                    file.WriteLine(player.Id); // Log the player's unique identifier
+                }
                 Game game = new TwentyOneGame(); // Create a new instance of the TwentyOneGame class
                 game += player; // Adding player to the game using overloaded + operator
                 player.isActivelyPlaying = true; // Set the player's active status to true

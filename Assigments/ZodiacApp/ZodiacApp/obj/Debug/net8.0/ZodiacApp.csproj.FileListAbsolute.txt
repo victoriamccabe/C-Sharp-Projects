@@ -1,0 +1,15 @@
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\bin\Debug\net8.0\ZodiacApp.exe
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\bin\Debug\net8.0\ZodiacApp.deps.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\bin\Debug\net8.0\ZodiacApp.runtimeconfig.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\bin\Debug\net8.0\ZodiacApp.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\bin\Debug\net8.0\ZodiacApp.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.AssemblyInfoInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.AssemblyInfo.cs
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.csproj.CoreCompileInputs.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.sourcelink.json
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\refint\ZodiacApp.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.pdb
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ZodiacApp.genruntimeconfig.cache
+C:\Users\victo\Repos\C-Sharp-Projects\Assigments\ZodiacApp\ZodiacApp\obj\Debug\net8.0\ref\ZodiacApp.dll

@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,11 +32,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "log.txt",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\log.txt",
+              "RelativeDocumentMoniker": "log.txt",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\log.txt",
+              "RelativeToolTip": "log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-03T22:42:33.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Dealer.cs",
+              "RelativeDocumentMoniker": "..\\Casino\\Dealer.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Dealer.cs",
+              "RelativeToolTip": "..\\Casino\\Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:40:42.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Casino.csproj",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Casino.csproj",
               "RelativeDocumentMoniker": "..\\Casino\\Casino.csproj",
@@ -37,12 +70,11 @@
               "RelativeToolTip": "..\\Casino\\Casino.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T22:58:42.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:58:42.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TwentyOne.AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs",
@@ -54,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
@@ -66,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T15:56:02.313Z",
               "EditorCaption": ""

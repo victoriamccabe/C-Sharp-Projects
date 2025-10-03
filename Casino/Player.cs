@@ -23,6 +23,8 @@ namespace Casino
         public bool isActivelyPlaying { get; set; } // Property to indicate if the player is actively playing
         public bool Stay { get; set; } // Property to indicate if the player has chosen to stay
 
+        public Guid Id { get; set; } = Guid.NewGuid(); // Unique identifier for the player, automatically assigned a new GUID
+
         // Method to place a bet
         public bool Bet(int amount)
         {

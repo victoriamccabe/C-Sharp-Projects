@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAAABD8-E0CF-4E51-BC2F-2CF3A4DD0DC8}|ZodiacApp\\ZodiacApp.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\assigments\\zodiacapp\\zodiacapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAAABD8-E0CF-4E51-BC2F-2CF3A4DD0DC8}|ZodiacApp\\ZodiacApp.csproj|solutionrelative:zodiacapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAAABD8-E0CF-4E51-BC2F-2CF3A4DD0DC8}|ZodiacApp\\ZodiacApp.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\assigments\\zodiacapp\\zodiacapp\\zodiachelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAAABD8-E0CF-4E51-BC2F-2CF3A4DD0DC8}|ZodiacApp\\ZodiacApp.csproj|solutionrelative:zodiacapp\\zodiachelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAAABD8-E0CF-4E51-BC2F-2CF3A4DD0DC8}|ZodiacApp\\ZodiacApp.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\assigments\\zodiacapp\\zodiacapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAAABD8-E0CF-4E51-BC2F-2CF3A4DD0DC8}|ZodiacApp\\ZodiacApp.csproj|solutionrelative:zodiacapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZodiacHelper.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\ZodiacApp\\ZodiacHelper.cs",
+              "RelativeDocumentMoniker": "ZodiacApp\\ZodiacHelper.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\ZodiacApp\\ZodiacHelper.cs*",
+              "RelativeToolTip": "ZodiacApp\\ZodiacHelper.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:45:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\ZodiacApp\\Person.cs",
+              "RelativeDocumentMoniker": "ZodiacApp\\Person.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\ZodiacApp\\Person.cs*",
+              "RelativeToolTip": "ZodiacApp\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:45:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\ZodiacApp\\Program.cs",
+              "RelativeDocumentMoniker": "ZodiacApp\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\ZodiacApp\\ZodiacApp\\Program.cs",
+              "RelativeToolTip": "ZodiacApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T22:45:09.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -24,12 +24,27 @@ namespace Casino.TwentyOne
             Dealer.Stay = false; // Set the dealer's Stay property to false the reason is because we want the dealer to be able to play again in the next round
             Dealer.Deck = new Deck(); // Create a new deck of cards for the dealer
             Dealer.Deck.Shuffle(); // Shuffle the dealer's deck of cards
-            Console.WriteLine("Place your bet!");
+       
 
             // Prompt each player to place a bet
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validBet = false; // Initialize a boolean variable to track if the bet is valid
+                int bet = 0; // Initialize a variable to hold the player's bet amount
+                while (!validBet) // Loop until a valid bet is provided
+                {
+                        Console.WriteLine("Place your bet!");
+                        validBet = int.TryParse(Console.ReadLine(), out bet); // Try to parse the input as an integer
+                        if (!validBet) // If parsing fails, inform the user
+                        {
+                            Console.WriteLine("Please enter digits only. No decimals.");
+                        }
+                    
+                }
+                if (bet < 0) // If the bet is negative, throw an exception
+                {
+                    throw new FraudException("Security! Kick this person out.");
+                }
                 bool successfullyBet = player.Bet(bet); // Attempt to place the bet. If the player doesn't have enough money, successfullyBet will be false
                 if (!successfullyBet) // Read as "if successfullyBet is NOT true"
                 {

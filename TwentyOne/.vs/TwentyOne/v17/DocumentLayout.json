@@ -3,26 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\casino.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\twentyone\\twentyone.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F77817B3-0950-4850-8480-3240014FF737}|TwentyOne.csproj|solutionrelative:twentyone.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TwentyOneGame/True/SqlTable/dbo.Exceptions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\fraudexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\casino.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E65FB5CF-9B45-44DF-86DF-2C158636F4A0}|..\\Casino\\Casino.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,24 +40,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 337,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "log.txt",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\log.txt",
-              "RelativeDocumentMoniker": "log.txt",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\log.txt",
-              "RelativeToolTip": "log.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-03T22:42:33.917Z",
+              "DocumentIndex": 2,
+              "Title": "Casino",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Casino.csproj",
+              "RelativeDocumentMoniker": "..\\Casino\\Casino.csproj",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Casino.csproj",
+              "RelativeToolTip": "..\\Casino\\Casino.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T18:46:28.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwentyOne",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOne.csproj",
+              "RelativeDocumentMoniker": "TwentyOne.csproj",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\TwentyOne.csproj",
+              "RelativeToolTip": "TwentyOne.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T18:46:19.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExceptionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\ExceptionEntity.cs",
+              "RelativeDocumentMoniker": "ExceptionEntity.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\ExceptionEntity.cs",
+              "RelativeToolTip": "ExceptionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:27:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Exceptions [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TwentyOneGame/True/SqlTable/dbo.Exceptions.sql",
+              "ToolTip": "dbo.Exceptions [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-04T18:25:38.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FraudException.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\FraudException.cs",
+              "RelativeDocumentMoniker": "..\\Casino\\FraudException.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\FraudException.cs",
+              "RelativeToolTip": "..\\Casino\\FraudException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:44:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TwentyOneGame.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\TwentyOneGame.cs",
+              "RelativeDocumentMoniker": "..\\Casino\\TwentyOneGame.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\TwentyOneGame.cs",
+              "RelativeToolTip": "..\\Casino\\TwentyOneGame.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:30:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Dealer.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Dealer.cs",
               "RelativeDocumentMoniker": "..\\Casino\\Dealer.cs",
@@ -62,49 +130,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Casino.csproj",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Casino.csproj",
               "RelativeDocumentMoniker": "..\\Casino\\Casino.csproj",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Casino\\Casino.csproj",
               "RelativeToolTip": "..\\Casino\\Casino.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T22:58:42.28Z"
+              "WhenOpened": "2025-09-29T22:58:42.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TwentyOne.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\TwentyOne.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:58:44.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:58:43.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\TwentyOne\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCMAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwGIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T15:56:02.313Z",
               "EditorCaption": ""

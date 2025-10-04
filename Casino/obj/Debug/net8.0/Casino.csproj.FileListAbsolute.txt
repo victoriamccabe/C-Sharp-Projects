@@ -10,3 +10,4 @@ C:\Users\victo\Repos\C-Sharp-Projects\Casino\obj\Debug\net8.0\Casino.dll
 C:\Users\victo\Repos\C-Sharp-Projects\Casino\obj\Debug\net8.0\refint\Casino.dll
 C:\Users\victo\Repos\C-Sharp-Projects\Casino\obj\Debug\net8.0\Casino.pdb
 C:\Users\victo\Repos\C-Sharp-Projects\Casino\obj\Debug\net8.0\ref\Casino.dll
+C:\Users\victo\Repos\C-Sharp-Projects\Casino\obj\Debug\net8.0\Casino.csproj.AssemblyReference.cache

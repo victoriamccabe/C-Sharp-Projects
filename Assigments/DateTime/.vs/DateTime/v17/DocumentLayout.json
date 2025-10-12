@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\DateTime\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0A932E5-87F8-4663-81D3-9C5C9C388181}|DateTime\\DateTime.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\assigments\\datetime\\datetime\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D0A932E5-87F8-4663-81D3-9C5C9C388181}|DateTime\\DateTime.csproj|solutionrelative:datetime\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0A932E5-87F8-4663-81D3-9C5C9C388181}|DateTime\\DateTime.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\assigments\\datetime\\datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0A932E5-87F8-4663-81D3-9C5C9C388181}|DateTime\\DateTime.csproj|solutionrelative:datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\DateTime\\DateTime\\README.md",
+              "RelativeDocumentMoniker": "DateTime\\README.md",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\DateTime\\DateTime\\README.md",
+              "RelativeToolTip": "DateTime\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-12T22:34:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\DateTime\\DateTime\\Program.cs",
               "RelativeDocumentMoniker": "DateTime\\Program.cs",

@@ -1,71 +1,28 @@
 # ZodiacApp
 
-A simple **C# Console Application** that asks the user for their name and birth date, then calculates and displays their **Western Zodiac sign**.
+A simple C# console application that determines a user's Zodiac sign based on their birth date.
 
-This repository is intended as a classroom-ready example that demonstrates three C# features:
+## Features
 
-- "const" variables  
-- "var" type inference  
-- **Constructor chaining** (one constructor calling another)
+- Prompts the user for their name and birth date.
+- Calculates and displays the user's Zodiac sign.
+- Demonstrates C# features such as:
+  - `const` variables
+  - Type inference with `var`
+  - Constructor chaining
+  - Static helper classes
+  - Pattern matching with `switch` expressions (C# 8+)
+- Built with .NET 8 and C# 12.
 
----
+## How It Works
 
-##  Project structure
+1. The application greets the user and asks for their name, day, and month of birth.
+2. It creates a `Person` object, which uses the `ZodiacHelper` class to determine the Zodiac sign.
+3. The result is displayed to the user.
 
-""
-ZodiacApp/
-├── Program.cs        # Entry point: user I/O, uses const and var
-├── Person.cs         # Person class: constructor chaining; stores user data + zodiac
-└── ZodiacHelper.cs   # Static helper: determines zodiac sign from day/month
-""
+## Example run
 
----
-
-##  Features explained
-
-- **Const variable**  
-  Program.cs contains a constant greeting that cannot be changed at runtime:
-  ""
-  const string Greeting = "Welcome to the Zodiac Sign Finder!";
-  ""
-
-- **"var" keyword**  
-  "var" is used to let the compiler infer the type:
-  ""
-  var today = DateTime.Now; // inferred as DateTime
-  ""
-
-- **Constructor chaining**  
-  Person class chains constructors so the 3-parameter constructor reuses the 1-parameter constructor:
-  ""
-  public Person(string name) { Name = name; }
-  public Person(string name, int day, int month) : this(name)
-  {
-      Day = day;
-      Month = month;
-      ZodiacSign = ZodiacHelper.GetZodiacSign(day, month);
-  }
-  ""
-
----
-
-##  How it works
-
-1. Program prints a greeting (the "const").  
-2. Program shows the current date (using "var" inferred "DateTime").  
-3. Program asks the user for:  
-   - Name  
-   - Day of birth (1–31)  
-   - Month of birth (1–12)  
-4. A "Person" object is created using the constructor that chains to the name-only constructor.  
-5. "ZodiacHelper.GetZodiacSign(day, month)" determines the Western zodiac sign.  
-6. Program prints the result.  
-
----
-
-##  Example run
-
-""
+```
 Welcome to the Zodiac Sign Finder!
 Today's date: 10/03/2025
 Enter your name: Alice
@@ -74,30 +31,22 @@ Enter your month of birth (1-12): 6
 
 Hello Alice!
 Your Zodiac Sign is: Gemini
-""
+```
 
----
+## Build & run
 
-##  Build & run
+1. Open the project folder "ZodiacApp" in Visual Studio, Visual Studio Code (with C# extension), or another C# IDE.
+2. Make sure you have the .NET SDK installed (any modern .NET Core / .NET 5+ will work).
+3. Build and run the application:
 
-1. Open the project folder "ZodiacApp" in Visual Studio, Visual Studio Code (with C# extension), or another C# IDE.  
-2. Make sure you have the .NET SDK installed (any modern .NET Core / .NET 5+ will work).  
-3. Build the project.  
-4. Run the console application and follow the prompts.  
+## Files
 
+- **Program.cs** — Application entry point. Demonstrates "const" and "var".
+- **Person.cs** — Contains "Person" class with constructor chaining.
+- **ZodiacHelper.cs** — Static helper class to calculate zodiac sign from day and month.
 
-##  Files
+## Notes
 
-- **Program.cs** — Application entry point. Demonstrates "const" and "var".  
-- **Person.cs** — Contains "Person" class with constructor chaining.  
-- **ZodiacHelper.cs** — Static helper class to calculate zodiac sign from day and month.  
-
----
-
-##  Notes
-
-- Input validation is minimal; invalid values may cause errors.  
-- Zodiac logic follows common Western astrology date ranges.  
-- Extendable: you can add year of birth and compute **Chinese Zodiac** as well.  
-
----
+- Input validation is minimal; invalid values may cause errors.
+- Zodiac logic follows common Western astrology date ranges.
+- Extendable: you can add year of birth and compute **Chinese Zodiac** as well.

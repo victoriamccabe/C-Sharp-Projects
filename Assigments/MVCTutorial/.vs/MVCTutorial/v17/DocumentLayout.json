@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\assigments\\mvctutorial\\mvctutorial\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\mvctutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\mvctutorial\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\mvctutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0A287E-924A-4F80-9A1F-29536188A37D}|MVCTutorial\\MVCTutorial.csproj|solutionrelative:mvctutorial\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MVCTutorial\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MVCTutorial\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T20:21:14.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-11T20:14:08.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MVCTutorial\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T22:49:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTutorial\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\Assigments\\MVCTutorial\\MVCTutorial\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCTutorial\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:48:43.762Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

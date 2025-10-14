@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15CE54B6-0590-4EEE-A358-C5BF98956E36}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|c:\\users\\victo\\repos\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D0C3946-23CA-9FB5-0AAF-C0406AA9431D}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\victo\\Repos\\C-Sharp-Projects\\CarInsurance\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-10-13T21:09:55.28Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "CarInsurance\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-13T21:08:46.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:08:46.317Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:04:32.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:04:32.999Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "CarInsurance\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:04:13.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:04:13.254Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T21:03:45.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:03:45.387Z"
             }
           ]
         }

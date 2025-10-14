@@ -8,55 +8,55 @@ This repository showcases a series of **C# applications** designed to demonstrat
 
 ## Projects & Technical Focus
 
-1. **ActualServerTimeDisplay**  
+1. [**ActualServerTimeDisplay**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/ActualServerTimeDisplay)  
    **Objective:** Implement a real-time display of server time.  
    **Technical Focus:**  
    - Usage of **DateTime** and **System.Timers** for live updates  
    - Thread-safe console updates  
    - Understanding of **server-client time synchronization**  
 
-2. **Assignments**  
+2. [**Assignments**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/Assignments)  
    **Objective:** Practice fundamental programming concepts.  
    **Technical Focus:**  
    - Implementation of **loops, arrays, collections, and conditional logic**  
    - Strengthening **algorithmic problem-solving** and computational thinking  
 
-3. **CarInsurance**  
+3. [**CarInsurance**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/CarInsurance)  
    **Objective:** Calculate insurance premiums based on user input.  
    **Technical Focus:**  
    - Application of **OOP principles** (classes, encapsulation, properties)  
    - Input validation and exception handling  
    - Conditional business logic and calculation algorithms  
 
-4. **Casino**  
+4. [**Casino**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/Casino)  
    **Objective:** Simulate a console-based casino game.  
    **Technical Focus:**  
    - Random number generation and probability simulation  
    - Game loop implementation with **control flow optimization**  
    - Robust **exception handling** and user interaction logic  
 
-5. **DailyReport**  
+5. [**DailyReport**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/DailyReport)  
    **Objective:** Automate generation of daily work reports.  
    **Technical Focus:**  
    - File I/O operations  
    - String manipulation and formatting  
    - Data aggregation and structured output  
 
-6. **Guess a Number**  
+6. [**Guess a Number**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/Guess%20a%20Number)  
    **Objective:** Implement a number guessing game.  
    **Technical Focus:**  
    - Algorithmic implementation of guessing logic  
    - Input validation and loop control  
    - Console-based **interactive UI design**  
 
-7. **Income Comparison Calculator**  
+7. [**Income Comparison Calculator**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/Income%20Comparison%20Calculator)  
    **Objective:** Compare income scenarios to support decision-making.  
    **Technical Focus:**  
    - Mathematical computations and data-driven logic  
    - Input parsing, validation, and exception handling  
    - Clear separation of **business logic** from UI  
 
-8. **NewsLetterAppMVC**  
+8. [**NewsLetterAppMVC**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/NewsLetterAppMVC)  
    **Objective:** Build a newsletter subscription system using **MVC architecture**.  
    **Technical Focus:**  
    - **ASP.NET MVC**: Models, Views, Controllers  
@@ -64,42 +64,42 @@ This repository showcases a series of **C# applications** designed to demonstrat
    - **Entity Framework Core** for CRUD operations  
    - Routing and application architecture  
 
-9. **PackageExpress**  
+9. [**PackageExpress**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/PackageExpress)  
    **Objective:** Calculate shipping costs based on package dimensions and weight.  
    **Technical Focus:**  
    - Conditional logic and multi-branch decision structures  
    - Input validation and exception handling  
    - Application of **algorithmic constraints** for business rules  
 
-10. **StudentApp**  
+10. [**StudentApp**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/StudentApp)  
     **Objective:** Manage student records in a console application.  
     **Technical Focus:**  
     - **CRUD operations** using collections  
     - Object-oriented design (Student class, encapsulation)  
     - Data persistence simulation using serialization  
 
-11. **TechAcadStudentsMVC**  
+11. [**TechAcadStudentsMVC**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/TechAcadStudentsMVC)  
     **Objective:** MVC application for managing students and academic records.  
     **Technical Focus:**  
     - **ASP.NET MVC architecture** and **Razor Views**  
     - **Entity Framework Core** for data access and persistence  
     - Routing, validation, and **strongly typed views**  
 
-12. **TechStoreInventory**  
+12. [**TechStoreInventory**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/TechStoreInventory)  
     **Objective:** Inventory management for a tech store.  
     **Technical Focus:**  
     - Data modeling and database integration  
     - CRUD operations with **Entity Framework**  
     - Separation of concerns and adherence to **SOLID principles**  
 
-13. **TwentyOne**  
+13. [**TwentyOne**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/TwentyOne)  
     **Objective:** Simulate the card game “21” with multiple players.  
     **Technical Focus:**  
     - Complex **OOP design** (Card, Deck, Player classes)  
     - Game loop logic and turn management  
     - Randomization, scoring algorithms, and exception handling  
 
-14. **ZodiacApp**  
+14. [**ZodiacApp**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/ZodiacApp)  
     **Objective:** Determine zodiac signs from user-provided birthdates.  
     **Technical Focus:**  
     - Conditional logic and **date calculations**  

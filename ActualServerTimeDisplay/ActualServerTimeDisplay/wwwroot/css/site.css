@@ -1,0 +1,77 @@
+﻿/* 🎀 Bubblegum theme styles */
+
+body {
+    background-color: #ffe4ec; /* soft bubblegum background */
+}
+
+.bubblegum-container {
+    background-color: #ffb6c1;
+    border-radius: 20px;
+    padding: 50px;
+    box-shadow: 0 0 20px rgba(255, 182, 193, 0.7);
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.bubblegum-title {
+    color: white;
+    text-shadow: 2px 2px 5px #ff69b4;
+}
+
+.bubblegum-text {
+    color: white;
+    font-size: 1.1rem;
+}
+
+.bubblegum-btn {
+    color: #ff69b4;
+    border-radius: 50px;
+    font-weight: bold;
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+    .bubblegum-btn:hover {
+        background-color: #fff0f5;
+        transform: scale(1.05);
+    }
+
+.bubblegum-frame {
+    background-color: white;
+    color: #ff69b4;
+    border-radius: 50px;
+    padding: 20px;
+    width: fit-content;
+    margin: 20px auto;
+    font-size: 2rem;
+    font-weight: bold;
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.6);
+    animation: pulse 2s infinite ease-in-out;
+}
+
+/* cute pop breathe animation  */
+.bubblegum-frame {
+    background-color: white;
+    color: #ff69b4;
+    border-radius: 50px;
+    padding: 20px;
+    width: fit-content;
+    margin: 20px auto;
+    font-size: 2rem;
+    font-weight: bold;
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.6);
+    animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.03);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

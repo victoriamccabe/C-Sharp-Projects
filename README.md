@@ -15,7 +15,7 @@ This repository showcases a series of **C# applications** designed to demonstrat
    - Thread-safe console updates  
    - Understanding of **server-client time synchronization**  
 
-2. [**Assignments**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/Assignments)  
+2. [**Assignments**](https://github.com/victoriamccabe/C-Sharp-Projects/tree/main/Assigments)  
    **Objective:** Practice fundamental programming concepts.  
    **Technical Focus:**  
    - Implementation of **loops, arrays, collections, and conditional logic**  
